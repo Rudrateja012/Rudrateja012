@@ -1,77 +1,61 @@
-# 👋 Hey there, I'm Rudra
+# 👋 Hello, I'm Rudra!
 
-Welcome to my GitHub! I'm a front-end enthusiast who loves blending elegant design with functional code. I thrive on solving problems, experimenting with visuals, and creating seamless user experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
----
-
-## 🧠 About Me
-
-- 💻 Web developer in the making with a flair for clean, responsive UI
-- 🔍 Passionate about semantic HTML, modern CSS, and accessibility
-- 🧩 Constantly exploring algorithms and data structures
-- 🎨 I enjoy crafting resumes, event invites, and creative design experiments
-- 📚 Always learning—currently diving deeper into **Python** and **Java**
+📄 **[View My Resume](https://your-resume-link.com)**
 
 ---
 
-## 🧰 Tech Toolbox
+## 🚀 About Me  
+🌟 **Aspiring Web Developer** | **Tech Enthusiast with a Passion for HTML, CSS & Algorithms**  
+💻 I love building clean, responsive websites and solving algorithmic challenges.
 
-### Languages & Concepts
-- HTML5 / CSS3 (Flexbox, Grid, Animations)
-- Java (OOP, Memory Management, Basic GUI apps)
-- Python (Scripting, Data Handling, Algorithm Practice)
-- JavaScript (Basics, learning in progress)
-- C (For fun and fundamentals)
-
-### Tools & Environment
-- VS Code, Anaconda, Git/GitHub
-- Responsive Design Principles
-- Debugging & Troubleshooting Techniques
+- 🎓 **Education**: [Your Degree or School Info]  
+- 💡 **Interests**: Web Design, CSS Animations, Semantic HTML, and Problem Solving  
+- 🛠️ Currently working on portfolio websites and creative web projects  
+- 📚 **Learning**: Flexbox, Responsive Design, and Accessibility Best Practices  
 
 ---
 
-## 🏗️ Notable Projects
+## 🔥 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🌐 **Portfolio Website** | A fully responsive personal portfolio using semantic HTML & polished CSS animations |
-| 🍴 **Restaurant Menu Page** | A menu design with images, prices, and stylish layout for mobile and desktop |
-| 🧪 **Smart Health monitering System** | A Smart Health Monitoring System is a special machine that helps doctors and family members check how healthy someone is. It uses small tools called sensors to check things like body temperature and heartbeat. |
-| ✈️ **Hate Speech Detection** | Hate Speech Detection is a system that uses computers to find and stop harmful or mean language online. It looks at messages, like tweets or comments, and checks if they are hateful, offensive, or safe. This helps keep the internet a kinder and safer place for everyone.
- |
+### **Responsive Portfolio Website** 🌐  
+A personal portfolio showcasing my skills, projects, and resume.  
+- 💻 **Tech Stack**: HTML, CSS, Flexbox  
+- 🎯 **Features**: Responsive layout, semantic structure, and clean design  
 
----
-
-## 🔍 Current Goals
-
-- Build dynamic web pages using JavaScript  
-- Strengthen Java and Python logic through mini projects  
-- Prepare for tech interviews with coding puzzles  
-- Explore accessibility-first design strategies
+🔗 [Project Repository](https://github.com/your-username/portfolio)
 
 ---
 
-## 📬 Let's Connect
+### **Restaurant Menu Page** 🍽️  
+A stylish and accessible restaurant menu with images, prices, and descriptions.  
+- 🧩 **Tech Stack**: HTML, CSS  
+- 📱 **Features**: Mobile-friendly layout, semantic tags, and visual appeal  
 
-Whether you want to chat about code, design, or just share inspiration—I'm all ears (well… virtual ones).
-
-> *“Code is the closest thing to magic we have.”*  
+🔗 [Project Repository](https://github.com/your-username/restaurant-menu)
 
 ---
 
-Made with 💙 and a touch of creative chaos by **Rudra**
+## 🛠️ Technologies & Tools
 
-<!--
-**Rudrateja012/Rudrateja012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-Layout-blue?style=for-the-badge)
 
-Here are some ideas to get you started:
+**Other Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Let's Connect!  
+💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-link-here)  
+📩 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+📄 **[View My Resume](https://your-resume-link.com)**
+
+---
+
+✨ *"Designing with purpose, coding with passion!"* 🚀
