@@ -26,7 +26,7 @@ A Smart Health Monitoring System is a special machine that helps doctors and fam
 - 💻 **Tech Stack**: HTML, CSS, Flexbox ,Java , python  
 - 🎯 **Features**: Responsive layout, semantic structure, and clean design  
 
-🔗 [Project Repository](https://github.com/your-username/portfolio)
+🔗 [Project Repository]([https://github.com/your-username/portfolio](https://github.com/Rudrateja012/smart-health-monitoring-system))
 
 ---
 
@@ -36,7 +36,7 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 - 🧩 **Tech Stack**: HTML, CSS  
 - 📱 **Features**: Mobile-friendly layout, semantic tags, and visual appeal  
 
-🔗 [Project Repository](https://github.com/your-username/restaurant-menu)
+🔗 [Project Repository]([https://github.com/your-username/restaurant-menu](https://github.com/Rudrateja012/Hate-gaurd))
 
 ---
 ## 📊 GitHub Stats  
@@ -45,11 +45,11 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudrateja012&show_icons=true&theme=radical)  
 
 ### **Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevkavala&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrateja012&layout=compact&theme=radical)  
 
 ### **Contributions & Activity**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajeevkavala&theme=radical)  
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajeevkavala&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudrateja012&theme=radical)  
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrateja012&theme=radical)  
 
 ## 🛠️ Technologies & Tools
 
