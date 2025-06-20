@@ -26,7 +26,7 @@ A Smart Health Monitoring System is a special machine that helps doctors and fam
 - 💻 **Tech Stack**: HTML, CSS, Flexbox ,Java , python  
 - 🎯 **Features**: Responsive layout, semantic structure, and clean design  
 
-🔗 [Project Repository]([https://github.com/your-username/portfolio](https://github.com/Rudrateja012/smart-health-monitoring-system))
+🔗 [Project Repository]((https://github.com/Rudrateja012/smart-health-monitoring-system))
 
 ---
 
@@ -36,7 +36,7 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 - 🧩 **Tech Stack**: HTML, CSS  
 - 📱 **Features**: Mobile-friendly layout, semantic tags, and visual appeal  
 
-🔗 [Project Repository]([https://github.com/your-username/restaurant-menu](https://github.com/Rudrateja012/Hate-gaurd))
+🔗 [Project Repository]((https://github.com/Rudrateja012/Hate-gaurd))
 
 ---
 ## 📊 GitHub Stats  
