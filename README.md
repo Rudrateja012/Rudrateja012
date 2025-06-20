@@ -21,22 +21,21 @@
 
 ## 🔥 Featured Projects
 
-### **Smart Health Monitering System** 🧑‍⚕️ 
+### **Smart Health Monitoring System** 🧑‍⚕️  
 A Smart Health Monitoring System is a special machine that helps doctors and family members check how healthy someone is. It uses small tools called sensors to check things like body temperature and heartbeat.  
-- 💻 **Tech Stack**: HTML, CSS, Flexbox ,Java , python  
+- 💻 **Tech Stack**: HTML, CSS, Flexbox, Java, Python  
 - 🎯 **Features**: Responsive layout, semantic structure, and clean design  
 
-🔗 [Project Repository]((https://github.com/Rudrateja012/smart-health-monitoring-system))
+🔗 [Project Repository](https://github.com/Rudrateja012/smart-health-monitoring-system)
 
 ---
 
-### **Hate Speech** 
-Hate Speech Detection is a system that uses computers to find and stop harmful or mean language online. It looks at messages, like tweets or comments, and checks if they are hateful, offensive, or safe. This helps keep the internet a kinder and safer place for everyone.
-  
+### **Hate Speech Detection** 💬  
+Hate Speech Detection is a system that uses computers to find and stop harmful or mean language online. It looks at messages, like tweets or comments, and checks if they are hateful, offensive, or safe. This helps keep the internet a kinder and safer place for everyone.  
 - 🧩 **Tech Stack**: HTML, CSS  
 - 📱 **Features**: Mobile-friendly layout, semantic tags, and visual appeal  
 
-🔗 [Project Repository]((https://github.com/Rudrateja012/Hate-gaurd))
+🔗 [Project Repository](https://github.com/Rudrateja012/Hate-gaurd)
 
 ---
 ## 📊 GitHub Stats  
@@ -68,8 +67,8 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 ---
 
 ## 🌟 Let's Connect!  
-💼 **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/rudra-teja-411187345/))  
-📩 **Email**: [your.email@example.com](mailto:rudrateja012@gmail.com)  
+💼 **LinkedIn**: [[Your LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/rudra-teja-411187345/)](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/rudra-teja-411187345/))  
+📩 **Email**: [mailto:rudrateja012@gmail.com](mailto:rudrateja012@gmail.com)  
 📄 **[View My Resume](https://your-resume-link.com)**
 
 ---
