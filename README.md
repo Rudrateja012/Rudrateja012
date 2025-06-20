@@ -39,6 +39,17 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 🔗 [Project Repository](https://github.com/your-username/restaurant-menu)
 
 ---
+## 📊 GitHub Stats  
+
+### **Overall Performance**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudrateja012&show_icons=true&theme=radical)  
+
+### **Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevkavala&layout=compact&theme=radical)  
+
+### **Contributions & Activity**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajeevkavala&theme=radical)  
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajeevkavala&theme=radical)  
 
 ## 🛠️ Technologies & Tools
 
