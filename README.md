@@ -48,6 +48,8 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 
 ### **Contributions & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudrateja012&theme=radical&cache_seconds=1)
+
+
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrateja012&theme=radical)  
 
 ## 🛠️ Technologies & Tools
