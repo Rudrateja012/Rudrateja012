@@ -1,4 +1,64 @@
-## Hi there 👋
+# 👋 Hey there, I'm Rudra
+
+Welcome to my GitHub! I'm a front-end enthusiast who loves blending elegant design with functional code. I thrive on solving problems, experimenting with visuals, and creating seamless user experiences.
+
+---
+
+## 🧠 About Me
+
+- 💻 Web developer in the making with a flair for clean, responsive UI
+- 🔍 Passionate about semantic HTML, modern CSS, and accessibility
+- 🧩 Constantly exploring algorithms and data structures
+- 🎨 I enjoy crafting resumes, event invites, and creative design experiments
+- 📚 Always learning—currently diving deeper into **Python** and **Java**
+
+---
+
+## 🧰 Tech Toolbox
+
+### Languages & Concepts
+- HTML5 / CSS3 (Flexbox, Grid, Animations)
+- Java (OOP, Memory Management, Basic GUI apps)
+- Python (Scripting, Data Handling, Algorithm Practice)
+- JavaScript (Basics, learning in progress)
+- C (For fun and fundamentals)
+
+### Tools & Environment
+- VS Code, Anaconda, Git/GitHub
+- Responsive Design Principles
+- Debugging & Troubleshooting Techniques
+
+---
+
+## 🏗️ Notable Projects
+
+| Project | Description |
+|--------|-------------|
+| 🌐 **Portfolio Website** | A fully responsive personal portfolio using semantic HTML & polished CSS animations |
+| 🍴 **Restaurant Menu Page** | A menu design with images, prices, and stylish layout for mobile and desktop |
+| 🧪 **Algorithm Showcase** | Code snippets and visual explanations for Quick Sort, Memory Allocation, and more (Java/Python) |
+| ✈️ **Creative Challenges** | A collection of wild, fun experiments—cursed image designs, airplane layouts, and interactive ideas |
+
+---
+
+## 🔍 Current Goals
+
+- Build dynamic web pages using JavaScript  
+- Strengthen Java and Python logic through mini projects  
+- Prepare for tech interviews with coding puzzles  
+- Explore accessibility-first design strategies
+
+---
+
+## 📬 Let's Connect
+
+Whether you want to chat about code, design, or just share inspiration—I'm all ears (well… virtual ones).
+
+> *“Code is the closest thing to magic we have.”*  
+
+---
+
+Made with 💙 and a touch of creative chaos by **Rudra**
 
 <!--
 **Rudrateja012/Rudrateja012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
