@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rudra!
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/rudra-teja-411187345/))
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rudrateja012@gmail.com)
 
 📄 **[View My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1LG8xqqBuqUI953SGBepgogjCXVHFoOmS/view?usp=sharing))**
