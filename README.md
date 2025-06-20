@@ -36,8 +36,9 @@ Welcome to my GitHub! I'm a front-end enthusiast who loves blending elegant desi
 |--------|-------------|
 | 🌐 **Portfolio Website** | A fully responsive personal portfolio using semantic HTML & polished CSS animations |
 | 🍴 **Restaurant Menu Page** | A menu design with images, prices, and stylish layout for mobile and desktop |
-| 🧪 **Algorithm Showcase** | Code snippets and visual explanations for Quick Sort, Memory Allocation, and more (Java/Python) |
-| ✈️ **Creative Challenges** | A collection of wild, fun experiments—cursed image designs, airplane layouts, and interactive ideas |
+| 🧪 **Smart Health monitering System** | A Smart Health Monitoring System is a special machine that helps doctors and family members check how healthy someone is. It uses small tools called sensors to check things like body temperature and heartbeat. |
+| ✈️ **Hate Speech Detection** | Hate Speech Detection is a system that uses computers to find and stop harmful or mean language online. It looks at messages, like tweets or comments, and checks if they are hateful, offensive, or safe. This helps keep the internet a kinder and safer place for everyone.
+ |
 
 ---
 
