@@ -47,7 +47,7 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrateja012&layout=compact&theme=radical)  
 
 ### **Contributions & Activity**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudrateja012&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudrateja012&theme=radical) 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrateja012&theme=radical)  
 
 ## 🛠️ Technologies & Tools
@@ -67,7 +67,7 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 ---
 
 ## 🌟 Let's Connect!  
-💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rudra-teja-411187345/))  
+💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rudra-teja-411187345/)  
 📩 **Email**: [Email](mailto:rudrateja012@gmail.com)  
 📄 **[View My Resume](https://your-resume-link.com)**
 
