@@ -12,7 +12,7 @@
 🌟 **Aspiring Web Developer** | **Tech Enthusiast with a Passion for HTML, CSS & Algorithms**  
 💻 I love building clean, responsive websites and solving algorithmic challenges.
 
-- 🎓 **Education**: [Your Degree or School Info]  
+- 🎓 **Education**: B-Tech in Malla Reddy University  
 - 💡 **Interests**: Web Design, CSS Animations, Semantic HTML, and Problem Solving  
 - 🛠️ Currently working on portfolio websites and creative web projects  
 - 📚 **Learning**: Flexbox, Responsive Design, and Accessibility Best Practices  
