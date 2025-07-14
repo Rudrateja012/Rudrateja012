@@ -71,7 +71,7 @@ Hate Speech Detection is a system that uses computers to find and stop harmful o
 ## 🌟 Let's Connect!  
 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rudra-teja-411187345/)  
 📩 **Email**: [Email](mailto:rudrateja012@gmail.com)  
-📄 **[View My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1LG8xqqBuqUI953SGBepgogjCXVHFoOmS/view?usp=sharing))**
+📄 **[View My Resume](https://drive.google.com/file/d/1LG8xqqBuqUI953SGBepgogjCXVHFoOmS/view?usp=sharing)**
 
 ---
 
